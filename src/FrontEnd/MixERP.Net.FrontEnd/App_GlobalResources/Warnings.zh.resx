@@ -121,13 +121,13 @@
     <value>新密码不能为旧密码。</value>
   </data>
   <data name="RestrictedTransactionMode" xml:space="preserve">
-    <value>这个成立不允许交易张贴。</value>
+    <value>处理方式受限</value>
   </data>
   <data name="NotAuthorized" xml:space="preserve">
     <value>你没有被授权在此时访问此资源。</value>
   </data>
   <data name="NothingSelected" xml:space="preserve">
-    <value>没有什么选择。</value>
+    <value>没有选择任何条目。</value>
   </data>
   <data name="PleaseEnterCurrentPassword" xml:space="preserve">
     <value>请输入您的当前密码。</value>
@@ -142,7 +142,7 @@
     <value>访问被拒绝。</value>
   </data>
   <data name="ConfirmationPasswordDoesNotMatch" xml:space="preserve">
-    <value>在确认密码不使用新的密码匹配。</value>
+    <value>确认密码不匹配。</value>
   </data>
   <data name="DuplicateEntry" xml:space="preserve">
     <value>重复的条目。</value>
